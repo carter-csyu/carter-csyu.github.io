@@ -5,6 +5,7 @@ categories:
 tags:
   - qualifier
   - custom quialifier
+classes: wide
 ---
 
 # Defineing Custom Qualifier Annotation
