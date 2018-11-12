@@ -55,7 +55,7 @@ public @interface Cold {}
 
 위 코드를 통하여 `@Qualifier("creamy")`와 `@Qualifier("cold")`는 각각 `@Creamy`와 `@Cold`로 대체하여 사용할 수 있는 것을 확인할 수 있다.
 
-> `@Qualifier("creamy")` Annotation -> `@Creamy` Annotation 
+> `@Qualifier("creamy")` Annotation -> `@Creamy` Annotation  
 > `@Qualifier("Cold")` Annotation -> `@Cold` Annotation  
 
 새로 생성된 어노테이션을 이용하여 위에서 발생한 문제를 해결할 수 있다.
