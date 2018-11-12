@@ -1,7 +1,7 @@
 ---
 title: "사용자 지정 @Qualifier 어노테이션 정의"
 categories:
-  - srping
+  - spring
 tags:
   - qualifier
   - custom quialifier
