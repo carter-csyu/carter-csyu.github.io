@@ -2,6 +2,9 @@
 permalink: /about/
 title: "About"
 toc: true
+toc_label: "유춘상(Chunsang Yu)"
+toc_icon: "grin"
+toc_sticky: true
 ---
   
 # 보유 기술

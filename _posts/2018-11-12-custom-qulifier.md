@@ -5,6 +5,7 @@ categories:
 tags:
   - qualifier
   - custom quialifier
+layout: posts
 classes: wide
 ---
 
